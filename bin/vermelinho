@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
 require 'vermelinho'
-puts vermelinho.hi(ARGV[0])
+puts Vermelinho.hi(ARGV[0])
