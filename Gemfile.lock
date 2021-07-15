@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    lingo (0.0.5)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.14.4)
+    rake (13.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  minitest
+  rake
+  lingo!
+
+BUNDLED WITH
+   2.1.4
