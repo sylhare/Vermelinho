@@ -1,4 +1,6 @@
+.idea/
 *.gem
+*.iml
 *.rbc
 /.config
 /coverage/
