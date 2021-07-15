@@ -5,7 +5,7 @@ A simple gem example from [How to make your own gem](https://guides.rubygems.org
 ## Get started
 
 ```shell
-% irb -Ilib -rhola
+% irb -Ilib -rvermelinho
 irb(main):001:0> Vermelinho.hi("english")
 => "hello world"
 irb(main):002:0> Vermelinho.hi("spanish")

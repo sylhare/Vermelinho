@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    lingo (0.0.5)
+    vermelinho (0.0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -15,7 +15,7 @@ PLATFORMS
 DEPENDENCIES
   minitest
   rake
-  lingo!
+  vermelinho!
 
 BUNDLED WITH
    2.1.4
