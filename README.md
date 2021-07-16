@@ -1,8 +1,12 @@
 # Vermelinho
 
+[![Vermilinho unit test](https://github.com/sylhare/Vermelinho/actions/workflows/tests.yml/badge.svg)](https://github.com/sylhare/Vermelinho/actions/workflows/tests.yml) [![vermelinho Ruby Gem](https://github.com/sylhare/Vermelinho/actions/workflows/gem-publish.yml/badge.svg)](https://github.com/sylhare/Vermelinho/actions/workflows/gem-publish.yml)
+
 A simple gem example from [How to make your own gem](https://guides.rubygems.org/make-your-own-gem/)💎 Hands on ruby.
 
 ## Get started
+
+In the interactive shell:
 
 ```shell
 % irb -Ilib -rvermelinho
@@ -12,6 +16,7 @@ irb(main):002:0> Vermelinho.hi("spanish")
 => "hola mundo"
 ```
 
+You can quit the shell with `exit`.
 Use the `bin`:
 
 ```bash
@@ -21,7 +26,6 @@ Use the `bin`:
 % ruby -Ilib ./bin/vermelinho spanish
 "hola mundo"
 ```
-
 
 ## Tests
 
