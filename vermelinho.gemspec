@@ -1,12 +1,12 @@
 Gem::Specification.new do |s|
   s.name        = 'vermelinho'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.summary     = "vermelinho!"
-  s.description = "Oi mundo com o vermelinho gem de rubi"
+  s.description = "Vermilinho attempts to translate 'hello world' in multiple languages"
   s.authors     = ["sylhare"]
   s.email       = 'sylhare@outlook.com'
   s.files       = Dir["lib/**//*"]
-  s.homepage    = 'https://rubygems.org/gems/vermelinho'
+  s.homepage    = 'https://github.com/sylhare/Vermelinho'
   s.license     = 'MIT'
   s.executables << 'vermelinho'
 end
