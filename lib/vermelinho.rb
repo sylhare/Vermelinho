@@ -12,7 +12,6 @@ class Vermelinho
   def self.hi(language = "english")
     translator = Translator.new(language)
     hi = translator.hi
-    puts hi
     return hi
   end
 end
